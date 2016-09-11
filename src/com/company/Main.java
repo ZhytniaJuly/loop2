@@ -3,10 +3,7 @@ package com.company;
 public class Main {
 
     public static void main(String[] args) {
-	int fibonachi [] = new int [11];
-        for (int i = 0; i < 11; i++) {
-            fibonachi[i] = 0;
-        }
+	    int fibonachi [] = new int [11];
         fibonachi [0] = 1;
         fibonachi [1] = 1;
 
